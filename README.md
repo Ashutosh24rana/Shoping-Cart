@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shopping Cart (Ecomzy)
 
 The Shopping Cart, also known as [Ecomzy](https://ecomzy-thisisehtesham.vercel.app/), is a simple web application built during [web development bootcamp] to understand the concept of store and slices in React.js. It demonstrates the basic functionality of a shopping cart, allowing users to add products, adjust quantities, and calculate the total price. The application utilizes React, HTML, and CSS (Tailwind) to create a responsive and user-friendly interface. [Ecomzy](https://ecomzy-thisisehtesham.vercel.app/)
@@ -73,3 +74,6 @@ The Shopping Cart is released under the [MIT License](LICENSE). Feel free to use
 ---
 
 Thank you for your interest in the Shopping Cart project! If you have any questions or need further assistance, please don't hesitate to reach out. Happy shopping!
+=======
+# Shoping-Cart
+>>>>>>> 3a0c0c584f4b1f532c31c2cb33f1db8f7d7e0b3f
